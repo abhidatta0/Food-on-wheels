@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "Display Name":"Chicken Biriyani",
+        "Restaurant Name": "Paradise Biriyani",
+        "Image Url":"../images/Chicken-Biryani.jpg",
+        "tags":["hyderabadi"],
+        "price":300,
+        "rating": 3
+    },
+    {
+        "id": 7,
+        "Display Name":"Shrimp Soup",
+        "Restaurant Name": "Lake",
+        "Image Url":"../images/pexels-lovefood-art-1437590.jpg",
+        "tags":[],
+        "price":50,
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "Display Name":"Mac Burger",
+        "Restaurant Name": "MkDonal",
+        "Image Url":"../images/pexels-rajesh-tp-1633578.jpg",
+        "tags":["Burger","MkDonal","Snacks"],
+        "price":150,
+        "rating": 2
+    },
+    {
+        "id": 4,
+        "Display Name":"Pizza",
+        "Restaurant Name": "Ital",
+        "Image Url":"../images/pexels-daria-shevtsova-1260968.jpg",
+        "tags":["Italian"],
+        "price":150,
+        "rating": 3
+    },
+    {
+        "id": 5,
+        "Display Name":"Paneer Roll",
+        "Restaurant Name": "Sanctuary",
+        "Image Url":"../images/paneer-roll.jpg",
+        "tags":["Bengali","Indian"],
+        "price":100,
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "Display Name":"Vege Bowl",
+        "Restaurant Name": "The Factory",
+        "Image Url":"../images/pexels-snapwire-286283.jpg",
+        "tags":["Chinese","Indian"],
+        "price":100,
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "Display Name":"Mutton Biriyani",
+        "Restaurant Name": "Delight",
+        "Image Url":"../images/biryani.jpg",
+        "tags":["kolkata"],
+        "price":200,
+        "rating": 2
+    }
+]
