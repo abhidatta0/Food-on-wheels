@@ -211,6 +211,6 @@ function setLocalStorageItem(key, value) {
 
 //get local storage
 function getLocalStorage(key) {
-    return JSON.parse(localStorage.getItem(key));
+    return JSON.parse(localStorage.getItem(key)) || [];
 }
 
